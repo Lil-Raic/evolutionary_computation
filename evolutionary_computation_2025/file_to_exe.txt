@@ -1,0 +1,4 @@
+To execute uni tests:
+pytest -v tests/uni_tests.py
+python3 main.py
+
