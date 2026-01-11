@@ -15,7 +15,7 @@ from problems.michalewicz import Michalewicz
 from algorithms.differential_evolution import DifferentialEvolution
 
 
-SURNAME = "Ravber"  # must match the professor's required naming scheme
+SURNAME = "Goncalo"
 DIMS = [10, 20, 30]
 RUNS = 50
 

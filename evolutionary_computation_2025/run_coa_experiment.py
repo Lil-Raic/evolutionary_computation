@@ -17,7 +17,7 @@ from problems.michalewicz import Michalewicz
 def run_experiment():
     # Configuration
     algorithm_acronym = "COA"
-    surname = "Ravber"  # Change this to your actual surname
+    surname = "Goncalo"
     dims = [10, 20, 30]
     runs = 50
     output_dir = "results"
